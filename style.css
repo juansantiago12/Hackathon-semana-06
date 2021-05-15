@@ -1,0 +1,9 @@
+.fondo-color {
+    background-color: #f5eee8;
+}
+.fondo-img {
+    background-image: url(img/person.jpg);
+    background-repeat: no-repeat;
+    background-size: 50% 80%;
+    background-position: 95% 0;
+}
