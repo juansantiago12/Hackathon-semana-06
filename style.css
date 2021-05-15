@@ -4,6 +4,23 @@
 .fondo-img {
     background-image: url(img/person.jpg);
     background-repeat: no-repeat;
-    background-size: 50% 80%;
+    background-size: 100% 80%;
     background-position: 95% 0;
+}
+.text-edit{
+    color: white;
+}
+.text-size {
+    font-size: 0.8rem;
+}
+.second {
+    background-color: #e9d5bc;
+}
+@media screen and (min-width: 768px) {
+    .fondo-img {
+        background-size: 50% 90%;
+    }
+    .text-edit {
+        color: black;
+    }
 }
